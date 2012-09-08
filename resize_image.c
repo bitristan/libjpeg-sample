@@ -1,3 +1,11 @@
+/*
+ * Resize image, not completed.
+ *
+ * usage:
+ * gcc -o resize resize_image.c
+ * ./resize
+ */
+
 #include <stdio.h>
 #include <jpeglib.h>
 #include <stdlib.h>

@@ -1,4 +1,5 @@
-libjpeg-sample
+libpng and libjpeg usage
 ==============
 
-a libjpeg sample
+sample to read and write jpeg format file use libjpeg
+sample to read and write png format file use libpng

@@ -1,5 +1,9 @@
 /*
  * use libjpeg to read an write jpeg format file.
+ * 
+ * usage:
+ * gcc -o jpeg_sample jpeg_sample.c -ljpeg
+ * ./jpeg_sample
  */
 
 #include <stdio.h>
